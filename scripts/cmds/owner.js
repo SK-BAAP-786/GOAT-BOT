@@ -28,7 +28,7 @@ module.exports = {
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📘 Facebook  : fb.com/mahtab.ahmad.
 │ 💬 Messenger: m.me/mahtab Ahmad
-│ 📞 WhatsApp  : wa.me/+3584573982389
+│ 📞 WhatsApp  : +3584573982389
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
