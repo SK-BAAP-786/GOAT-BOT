@@ -1,4 +1,5 @@
-module.exports.config = {
+module.exports = {
+  config: {
   name: "boydp",
   version: "1.0.0",
   hasPermssion: 0,
